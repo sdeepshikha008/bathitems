@@ -13793,7 +13793,7 @@ label input {
   align-items: center;
   margin: auto;
   display: flex;
-  background-color: var(--rgba-primary-5);
+  background-color: rgb(23 22 22);
   border-radius: 50%;
   justify-content: center; }
   .icon-box-5 svg {
@@ -14835,7 +14835,7 @@ a[class*="badge-outline-"]:hover {
   background-color: #EF962E; }
 
 .badge-danger {
-  background-color: #AE7156; }
+  background-color: #f97979; }
 
 .badge-dark {
   background-color: #293041; }
