@@ -17060,7 +17060,8 @@ button {
     .dz-stepper.style-4 .bootstrap-touchspin .form-control {
       color: #fff; }
   .dz-stepper.style-5 {
-    width: 100px; }
+    width: 100px;    position: relative;
+    right: 161px; }
     .dz-stepper.style-5 .bootstrap-touchspin .input-group-btn .btn {
       border-radius: 6px;
       width: 30px;
